@@ -1,0 +1,152 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+.main-box{
+    border: 1px solid gray;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+}
+.red-box{
+    background-color: #ea3323;
+    width: 40%;
+    height: 40%;
+}
+.green-box{
+    background-color: #43962a;
+    width: 40%;
+    height: 40%;
+}
+.sky-box{
+    background-color: #80caf9;
+    width: 40%;
+    height: 40%;;
+}
+.yellow-box{
+    background-color: #f8ce46;
+    width: 40%;
+    height: 40%;
+}
+ td{
+    border: 1px black solid;
+    background-color: white;
+ }
+ .red{
+    background-color:#ea3323;
+ }
+ .yellow{
+    background-color: #f8ce46;
+ }
+ .sky{
+    background-color: #80caf9;
+ }
+ .green{
+    background-color: #43962a;
+ }
+ .red-box2{
+    background-color: white;
+    width: 60%;
+    height: 60%;
+    margin: auto;
+    border: 1px black solid;
+ }
+ .circle1-red,.circle1-green,.circle1-sky,.circle1-yellow{
+    background-color: #ea3323;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    float: left;
+    border: black solid 1px;
+    position: relative;
+    top: 15px;
+    left: 15px;   
+ }
+ .circle2-red,.circle2-green,.circle2-sky,.circle2-yellow{
+    background-color: #ea3323;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    float: left;
+    border: black solid 1px;
+    position: relative;
+    top: 15px;
+    left: 35px; 
+ }
+ .circle3-red,.circle3-green,.circle3-sky,.circle3-yellow{
+    background-color: #ea3323;
+    border: black solid 1px;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    clear: left;
+    float: left;
+    position: relative;
+    top: 40px;
+    left: 15px; 
+ }
+ .circle4-red,.circle4-green,.circle4-sky,.circle4-yellow{
+    background-color: #ea3323;
+    border: black solid 1px;
+    width: 25%;
+    height: 25%;
+    border-radius: 50%;
+    float: left;
+    position: relative;
+    top: 40px;
+    left: 35px; 
+ }
+ .circle1-green,.circle2-green,.circle3-green,.circle4-green{
+    background-color: #43962a;
+ }
+ .circle1-sky,.circle2-sky,.circle3-sky,.circle4-sky{
+    background-color: #80caf9;
+ }
+ .circle1-yellow,.circle2-yellow,.circle3-yellow,.circle4-yellow{
+    background-color: #f8ce46;
+ }
+ .traingle-red{
+    border: 1px black solid;
+    width: 45%;
+    height: 45%;
+    background-color: #ea3323;
+    float: left;
+    border-radius: 0% 100% 0% 100%;
+ }
+ .traingle-green{
+    border: 1px black solid;
+    width: 45%;
+    height: 45%;
+    background-color: #43962a;
+    float: left;
+    border-radius: 100% 0% 100% 0%;
+ }
+ .traingle-sky{
+    border: 1px black solid;
+    width: 45%;
+    height: 45%;
+    background-color: #80caf9;
+    float: left;
+    clear: left;
+    border-radius: 100% 0% 100% 0%;
+ }
+ .traingle-yellow{
+    border: 1px black solid;
+    width: 45%;
+    height: 45%;
+    background-color: #f8ce46;
+    float: left;
+    border-radius: 0% 100% 0% 100%;
+ }
+ .traingle-box{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+ }

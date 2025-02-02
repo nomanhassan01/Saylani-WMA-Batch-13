@@ -1,0 +1,76 @@
+body{
+    background-color: #c0c0c0;
+    margin: 25PX 15PX;
+    color: rgb(255, 255, 255, 10) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.colors{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first-div{
+    color: #64645a;
+    background-color: #e0e0e0 ;
+}
+h3{
+    padding: 10px;
+}
+.very-alkaline{
+    background-color: #08d;
+    padding: 5px;
+}
+.number-13{
+    background-color: #0095e2;
+    padding: 5px;
+}
+.number-12{
+    background-color: #00a0e6;
+    padding: 5px;
+}
+.number-11{
+    background-color: #30aae9;
+    padding: 5px;
+}
+.number-10{
+    background-color: #54b6ed;
+    padding: 5px;
+}
+.number-9{
+    background-color: #72c1f0;
+    padding: 5px;
+}
+.number-8{
+    background-color: #8ccaf2;
+    padding: 5px;
+}
+.number-7{
+    background-color: #00bb88;
+    padding: 5px;
+}
+.number-6{
+    background-color: #f5b0cc;
+    padding: 5px;
+}
+.number-5{
+    background-color: #f69fc0;
+    padding: 5px;
+}
+.number-4{
+    background-color: #f58cb2;
+    padding: 5px;
+}
+.number-3{
+    background-color: #f47ba6;
+    padding: 5px;
+}
+.number-2{
+    background-color: #f36a98;
+    padding: 5px;
+}
+.number-1{
+    background-color: #f45a8b;
+    padding: 5px;
+}
+.very-acid{
+    background-color: #ee3e80;
+    padding: 5px;
+}

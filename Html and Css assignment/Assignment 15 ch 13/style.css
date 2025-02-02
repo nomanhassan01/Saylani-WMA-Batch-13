@@ -1,0 +1,38 @@
+.body{
+    border: 10px rgb(173, 70, 70) solid;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    border: 1px solid black ;
+    width: 100%;
+}
+.box{
+    width: 70%;
+    margin: 0 auto;
+}
+.logo{
+    padding: 30px;
+    text-align: center;
+}
+ul {
+    width: 570px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+}
+li{
+    display: inline;
+    margin: 0px 3px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+}
+p {
+    text-align: center;
+    width: 600px; 
+    margin: 20px auto; 
+    font-weight: normal;}
+   
